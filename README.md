@@ -6,7 +6,7 @@
 
 💞️ I'm actively seeking like-minded individuals to collaborate with and share my enthusiasm for app development.
 
-📫 You can reach out to me at johanssonida1996@gmail.com(mailto:johanssonida1996@gmail.com) or connect with me on .
+📫 You can reach out to me at johanssonida1996@gmail.com or connect with me on my LinkedIn https://www.linkedin.com/in/ida-johansson-a1305b16a/.
 
 <!---
 johanssonida1996/johanssonida1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
