@@ -1,6 +1,6 @@
 👋 Hi, I'm Ida Johansson
 
-👀 I'm passionate about React, TypeScript HTML&CSS and SCSS.
+👀 I'm passionate about React, TypeScript, HTML&CSS and SCSS.
 
 🌱 Currently, I'm deepening my knowledge in React Native and mobile app development.
 
